@@ -1,0 +1,12 @@
+{
+  "name": "advance_node",
+  "version": "1.0.0",
+  "description": "v16.15.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10"
+  }
+}
